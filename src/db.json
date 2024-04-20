@@ -60,5 +60,25 @@
   "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
       }
       
+    ],
+    "testinomial":[
+      {
+        "id":1,
+  "name":"Master These Awesome",
+  "prof":"Web Developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":2,
+  "name":"Best Design Items to Appeal",
+  "prof":"C# developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":3,
+  "name":"Best Design Items to Appeal",
+  "prof":"Java developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      }
     ]
   }
